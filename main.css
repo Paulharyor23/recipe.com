@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url(https://fonts.google.com/specimen/Outfit);
+body {
+    font-size: 16px;
+    background-color: rgb(243, 228, 216);
+}
+
+#rectangle {
+    background-color: white;
+    width: 375px;
+    height: 950px;
+    margin-inline: auto;
+    border-radius: 15px;
+    padding: 20px;
+    font-size: 16px;
+    font-family: "Outfit", sans-serif;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+h3{
+    font-family: "Young Serif", serif;
+}
+
+p{
+    color: hsl(332, 51%, 32%);
+}
+
+.touch{
+    font-size: 12px;
+    margin-top: -12px;
+    margin-left: 12px;
+}
+.container{
+    background-color: hsl(332, 51%, 96%);
+    font-family: "Outfit", sans-serif;
+    padding: 5px;
+    border-radius: 5px; 
+    margin-top: -15px;
+}
+
+.container > p {
+    margin-left: 15px;
+}
+
+.container > ul {
+    margin-left: -5px;
+}
+
+.hash{
+    font-size: 12px;
+    color: black;
+    margin-bottom: 25px;
+}
+
+
+h4{
+    color: hsl(332, 51%, 32%);
+    margin-top: 10px;
+}
+.box{
+    color: black;
+    font-size: 10px;    
+}
+
+ul {
+    font-size: 12px;
+    margin-top: -15px;
+    margin-left: -8px;
+}
+
+ol {
+    font-size: 12px;
+    margin-left: -12px;
+    margin-top: -9px;
+} 
+
+span {
+    margin-left: 50px;
+    font-size: 14px;
+}
+
+h{
+    margin-right: 10px;
+    font-size: 14px
+}
+
+center{
+    margin-bottom: ;
+}
+
+hx{ 
+    margin-left: 17px;
+    margin-bottom: -3px;
+    font-size: 14px;
+}
+
+spans{
+    font-size: 14px;
+    margin-left: 60px;
+}
+
